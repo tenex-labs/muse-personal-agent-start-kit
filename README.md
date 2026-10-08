@@ -37,6 +37,12 @@ Start with the **movie picker** or **weekend planner** if you want a simple firs
 
 Videos play inside the browser guide. The walkthrough reflects its recording date; check current pricing and features in Muse.
 
+## Keep learning with Tenex
+
+- **[Subscribe to Ultrathink](https://www.tenex.co/ultrathink)** — Get the Tenex newsletter.
+- **[Subscribe on YouTube](https://www.youtube.com/@Tenex-Media)** — Follow our AI videos, walkthroughs, and tutorials.
+- **[Bring AI into your company](https://www.tenex.co/get-started)** — Talk to Tenex about AI consulting, strategy, and transformation.
+
 ## Keep these handy
 
 - [Plain-English glossary](guides/glossary.md)
