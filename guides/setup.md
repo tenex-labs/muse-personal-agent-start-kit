@@ -1,6 +1,16 @@
 # Get set up
 
-Work through these steps once. Replace bracketed text before pasting.
+Work through these steps once. Replace bracketed text before pasting. Want a result first? [Try the movie prompt](first-win.md).
+
+## New to AI assistants? Start here
+
+You do not need an existing memory export. Paste this into Muse, then continue at SOUL setup below.
+
+```text
+Help me introduce myself. Ask up to three questions at a time about my interests, preferences, regular responsibilities, and what I want help with. Let me skip any question. Turn my answers into a short memory summary for me to review. After I approve, save it to your existing memory file and show me what changed.
+```
+
+Already use an assistant? Follow the reviewed import path in steps 3–4.
 
 ## 1. Open Muse and choose one job
 
