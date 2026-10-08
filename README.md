@@ -12,7 +12,7 @@ A practical guide from JJ Englert and Tenex for everyday life. No coding or hard
 4. Review the result and give one specific correction.
 5. [Make the useful version recurring](guides/routines.md).
 
-**[Open the browser guide](https://tenex-labs.github.io/muse-personal-agent-start-kit-safe/)** for playable demos and copy buttons. You can also download the repository with **Code → Download ZIP**, unzip it, and open `docs/index.html`. Internet is required for the videos; the written guide works offline. GitHub’s README does not play HTML video embeds.
+**[Open the browser guide](https://tenex-labs.github.io/muse-personal-agent-start-kit/)** for playable demos and copy buttons. You can also download the repository with **Code → Download ZIP**, unzip it, and open `docs/index.html`. Internet is required for the videos; the written guide works offline. GitHub’s README does not play HTML video embeds.
 
 ## Pick your first job
 
